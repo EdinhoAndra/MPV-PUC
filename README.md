@@ -1,4 +1,4 @@
-# MPV-PUC
+# MVP-PUC
 🎯 Objetivo do Trabalho
 Este projeto tem como foco avaliar e comparar o poder discriminatório de diferentes métodos estatísticos na seleção de features contínuas voltadas para a predição de alvos categóricos no contexto de dados financeiros.
 O estudo busca responder a questões centrais sobre a eficácia de cada abordagem estatística na construção de modelos preditivos robustos.
