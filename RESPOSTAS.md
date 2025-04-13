@@ -114,7 +114,7 @@ As features com melhor desempenho foram:
 <details>
 <summary>❓ <strong>Como a natureza temporal dos dados influencia os métodos?</strong></summary>
 
-📌 **Resposta**: Features como Amplitude e Lower_Shadow mostraram consistência ao longo do tempo. Kruskal demonstrou robustez a mudanças de regime. Relações monotônicas (Spearman) e efeitos estacionários se mostraram mais confiáveis em séries temporais financeiras com ruído e volatilidade.
+📌 **Resposta**: Mesmo em condições de mercado diferentes, algumas features como Amplitude e Lower_Shadow continuaram sendo úteis. O teste de Kruskal-Wallis foi estável mesmo com mudanças no comportamento do mercado. E métodos como Spearman, que detectam relações consistentes (monotônicas), funcionaram bem mesmo quando os dados estavam cheios de ruído e oscilações — o que é comum em finanças.
 </details>
 
 <details>
