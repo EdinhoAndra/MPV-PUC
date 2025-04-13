@@ -96,7 +96,7 @@ As features com melhor desempenho foram:
 <details>
 <summary>❓ <strong>Como podemos quantificar o ganho em desempenho ao usar o método mais adequado em comparação com escolhas aleatórias?</strong></summary>
 
-📌 **Resposta**: AUC-ROC para Amplitude (classe 0) foi 0.59, contra 0.5 do acaso, representando ganho de ~18%. Kruskal-Wallis apresentou estatísticas elevadas e p-valores extremamente baixos. Isso representa uma redução potencial no erro de classificação entre 15–30% comparado a features aleatórias.
+📌 **Resposta**: AUC-ROC para Amplitude (classe 0) foi 0.59, contra 0.5 do acaso, representando ganho de ~18%. Kruskal-Wallis apresentou estatísticas elevadas e p-valores extremamente baixos. Isso representa uma redução potencial no erro de classificação entre 15–30% comparado a features aleatórias. Este ganho em poder discriminatório se traduz diretamente em modelos mais precisos, em comparação com a utilização de features selecionadas aleatoriamente.
 </details>
 
 <details>
