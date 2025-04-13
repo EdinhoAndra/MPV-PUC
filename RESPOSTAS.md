@@ -70,6 +70,7 @@ Não consegue capturar adequadamente as relações entre as features e as classe
 
 
 ##Conclusão
+
 O teste de Kruskal-Wallis é a métrica com maior poder discriminatório para suas classes preditas, seguido pela correlação de Spearman.
 As features que demonstram melhor capacidade discriminatória são:
 
