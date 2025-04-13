@@ -35,7 +35,7 @@ Estabelecer critérios objetivos — Refletir sobre os critérios mais eficazes 
 
 Construir uma metodologia sistemática — Desenvolver uma abordagem reutilizável de avaliação e seleção de features com aplicação em modelos de trading algorítmico e sistemas de suporte à decisão.
 
-##Perguntas a serem respondidas pelo trabalho:
+❓ Perguntas Centrais
 
 (Antes das perguntas propriamente ditas, ao final, será apresentada uma comparação das métricas por feature, com uma pequena consideração acerca de cada uma delas. Esse pequeno relatório limitar-se-á a um número reduzido de features, algo em torno de cinco, devido ao tempo (ou à falta dele).)
 
