@@ -102,13 +102,13 @@ As features com melhor desempenho foram:
 <details>
 <summary>❓ <strong>Como a combinação de diferentes métodos pode superar limitações individuais?</strong></summary>
 
-📌 **Resposta**: Métodos distintos capturam aspectos complementares. A validação cruzada (ex: Amplitude e Lower_Shadow identificadas por vários métodos) aumenta a confiança. Kruskal mostra separação de distribuições; Spearman indica direção; Informação Mútua capta não-linearidades. A combinação gera seleção mais estável e interpretável.
+📌 **Resposta**: Métodos distintos capturam aspectos complementares. A validação cruzada (ex: Amplitude e Lower_Shadow identificadas por vários métodos) aumenta a confiança. Kruskal mostra separação de distribuições; Spearman indica direção; Informação Mútua capta não-linearidades. A combinação pode gerar seleção mais estável e interpretável.
 </details>
 
 <details>
 <summary>❓ <strong>Qual a relação entre significância estatística e relevância prática?</strong></summary>
 
-📌 **Resposta**: A significância (p < 0.05) nem sempre implica relevância preditiva. Exemplo: Spearman com rho = 0.07. Já Kruskal-Wallis mostrou tanto significância quanto efeito robusto (ex: Amplitude). Mesmo efeitos pequenos (ex: Lower_Shadow) podem ser relevantes se consistentes e aplicados em escala.
+📌 **Resposta**: A significância (p < 0.05) nem sempre implica relevância preditiva. Exemplo: Spearman com rho = 0.07. Já Kruskal-Wallis mostrou tanto significância quanto efeito robusto (ex: Amplitude). Mesmo efeitos pequenos (ex: Lower_Shadow) podem ser relevantes se consistentes e aplicados em escala e em conjunto com os de outras features, na ausência de outras com maior relevância prática.
 </details>
 
 <details>
@@ -131,7 +131,7 @@ As features com melhor desempenho foram:
 
 🔍 Percebi, por exemplo, que parte significativa do tempo foi consumida em uma “luta” contra os dados, quando, na verdade, bastava retornar humildemente à origem das informações e revisar com atenção aquela tabela inicial.
 
-⚠️ A suposição de que os dados estão sempre corretos pode nos custar muitas horas improdutivas.
+⚠️ A suposição de que os dados estão sempre corretos, no sentido de estarem "limpos" e devidamente tratados, pode nos custar muitas horas improdutivas.
 
 ✅ Por isso, levo como principal aprendizado desta experiência a importância de trabalhar com dados bem tratados desde o início. Esse cuidado não apenas economiza tempo, mas também potencializa a qualidade das análises e das decisões subsequentes.
 
