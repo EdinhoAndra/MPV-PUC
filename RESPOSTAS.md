@@ -120,7 +120,7 @@ As features com melhor desempenho foram:
 <details>
 <summary>❓ <strong>Qual o impacto da normalização das features?</strong></summary>
 
-📌 **Resposta**: Kruskal e Spearman são invariantes a escalas e transformações monótonas. Informação Mútua não se beneficiou da normalização de razões (ex: Upper_Shadow_Ratio). Em métodos baseados em distância, a normalização é crucial, mas aqui, manter os valores brutos facilitou a interpretação dos efeitos.
+📌 **Resposta**: Embora não se tenha testado explicitamente o impacto da normalização, a análise dos resultados nos permite inferir seu efeito. Kruskal e Spearman são invariantes a escalas e transformações monótonas. Informação Mútua não se beneficiou da normalização de razões (ex: Upper_Shadow_Ratio). Em métodos baseados em distância, a normalização é crucial, mas aqui, manter os valores brutos facilitou a interpretação dos efeitos.
 </details>
 
 ---
